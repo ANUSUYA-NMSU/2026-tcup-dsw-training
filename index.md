@@ -113,6 +113,8 @@ We appreciate these partnerships and look forward to working with you all!
 
 # Participants
 
+Please add your information below! You can do this by forking this repository, editing the index.md file, and submitting a pull request. We'll go through how to do this during the training! 
+
 | Name                          | Organization          | GitHub Username | GitHub Portfolio Link                                      |
 | ----------------------------- | --------------------- | --------------- | ---------------------------------------------------------- |
 | Nate Quarderer (instructor)   | ESIIL; Earth Lab      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
