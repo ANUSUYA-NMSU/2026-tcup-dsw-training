@@ -1,0 +1,2 @@
+# 2026-tcup-hub-training
+A repository for code and resources for the 2026 TCUP Hub meeting in San Antonio, TX (Nov. 5-6, 2026)
