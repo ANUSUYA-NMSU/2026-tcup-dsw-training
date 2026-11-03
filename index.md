@@ -64,7 +64,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 # Curriculum
 
-## **Week 1 - Monday, July 13** - Introductions; GitHub; Markdown
+## **Day 1 - Thursday, November 5** - Introductions; GitHub; Markdown
 
 > ### 📝 **Assignment:**
 >
@@ -78,32 +78,14 @@ We appreciate these partnerships and look forward to working with you all!
 > - [GitHub pages](https://docs.github.com/en/pages)
 > - [Jekyll themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 
-## **Week 1 - Wednesday, July 15** - Mapping with OpenStreetMap
-
-> ### 📝 **Assignment:**
->
-> - Create an interactive map of the University of Colorado Boulder
-> - Create an interactive map of your city, campus, or place that interests you
-> - Add your map to GitHub portfolio page
-
-> ### 📚 **Readings:**
->
-> - [GitHub Codespaces](https://docs.github.com/en/codespaces)
-> - [OpenStreetMap](https://www.openstreetmap.org/)
-
-> ### 🎥 **Week 1 Recordings:**
->
-> - [Monday Lecture - GitHub Profile Page; July 13](https://cuboulder.zoom.us/rec/share/LOsHy5C7Zyt41pZC7jTIutmGMQk6BUAIPcO_3OBCZoXlSjXPOjlWSIFdcJayvEI.BUKs6MbtuSy5kl18)
-> - [Wednesday Lecture - Interactive Maps; July 15](https://cuboulder.zoom.us/rec/share/sBsFZKRHXEUrodc--rkwPP1CiXjpWsJ8RMoDDGuFCGoU9CZNAEFchujlBuhXwmzx.c4emTsI-_RJOmLP6)
-> - [Thursday Office Hours; July 16](https://cuboulder.zoom.us/rec/share/fW5E8BK0XVEqm6Y33lLuFzY0c6dtEGRvVkmIqnFUZXgDWB-FmdaFddAB8E657VRe.Fzwm22u1_5PXfeDm)
-
 ---
 
-## **Week 2 - Monday, July 20** - Open & Reproducible Science; Time-Series Data
+## **Day 2 (Part 1) - Friday, November 6** - Open & Reproducible Science; Time-Series Data
 
 > ### 📝 **Assignment:**
 >
-> - Complete NOAA NCEI climate data workflow for Karachi, Pakistan
+> - Complete NOAA NCEI climate data workflow for Many Glacier, MT
+> - Repeat for a weather station of your choosing
 > - Post link of your work to your GitHub portfolio page
 
 > ### 📚 **Readings:**
@@ -112,30 +94,19 @@ We appreciate these partnerships and look forward to working with you all!
 > - [pandas](https://pandas.pydata.org/docs/)
 > - [holoviews](https://holoviews.org/index.html)
 
-## **Week 2 - Wednesday, July 22** - Spatial Data Fundamentals
+---
+
+## **Day 2 - Thursday, November 6** - Mapping with OpenStreetMap
 
 > ### 📝 **Assignment:**
 >
-> - Create a map of vegetation health (NDVI) for Al Jawf Region, Saudi Arabia
-> - Post link of your work to your GitHub portfolio page
+> - Create an interactive map of your city, campus, or place that interests you
+> - Add your map to GitHub portfolio page
 
 > ### 📚 **Readings:**
 >
-> - [GeoPandas](https://geopandas.org/en/stable/)
-> - [OpenStreetMap](https://www.openstreetmap.org)
-> - [rioxarray](https://corteva.github.io/rioxarray/stable/getting_started/getting_started.html)
-> - [NDVI](https://www.earthdatascience.org/courses/use-data-open-source-python/multispectral-remote-sensing/vegetation-indices-in-python/)
-> - [Earthdata - NASA](https://www.earthdata.nasa.gov/learn/get-started)
-
-> ### 🎥 **Week 2 Recordings:**
->
-> - [Monday Lecture - Time-Series Data; July 20](https://cuboulder.zoom.us/rec/share/yW_wnIyj0NOXlMd5Ls6SJoySkqvBgeWwhUNBMcJAKyKTsO7W88t2y-r-zWWSQKw.4_i3ZIrgj85LGVLz) - **USE PASSCODE:** i$mCV0p=
-> - [Wednesday Lecture - Raster Data; July 22](https://cuboulder.zoom.us/rec/share/cUACuSfghgw87OEfLcfR7wyUTP9nX9yHB8XiX2GFNyn_TMp5TUmCUhxFvngQ6uWd.v-_L7--7-4xUm-m8)
-> - [**EXTRA VIDEO: Download NDVI Data Using NASA AppEEARS**](https://cuboulder.zoom.us/rec/share/MfqLqkwz_CxHPo2fEEIcUXAgnONNl8UY9CizRUVWb6qJJDEyflsTLQgn0zFtaIYC.5MXcwM8gODUrZ6RD?startTime=1761401585000)
-> - [Thursday Office Hours; July 23](https://cuboulder.zoom.us/rec/share/6NxiYVtDCkXm9cpPHEzQRCVEU9iNH0nEv__l8wSwcKmJxaIYa7pu7OxVmdZnevD_.NCyA7q1N4ji9gsJG)
-
----
-
+> - [GitHub Codespaces](https://docs.github.com/en/codespaces)
+> - [OpenStreetMap](https://www.openstreetmap.org/)
 
 
 ---
@@ -145,3 +116,5 @@ We appreciate these partnerships and look forward to working with you all!
 | Name                          | Organization          | GitHub Username | GitHub Portfolio Link                                      |
 | ----------------------------- | --------------------- | --------------- | ---------------------------------------------------------- |
 | Nate Quarderer (instructor)   | ESIIL; Earth Lab      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
+| Charles Jason Tinant (instructor)   | Oglala Lakota College      | cjtinant        | [https://github.com/cjtinant](https://github.com/cjtinant) |
+| Brian Yandell (instructor)   | University of Wisconsin Madison      | byandell        | [https://byandell.github.io/](https://byandell.github.io/) |
