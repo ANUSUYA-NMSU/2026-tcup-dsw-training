@@ -50,7 +50,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 - Professor - Oglala Lakota College
 - <a href="mailto: jtinant@olc.edu" target = "_blank">**Email**</a>
-- <a href="https://github.com/cjtinant" target="_blank">**Website**</a>
+- <a href="https://cjtinant.github.io/" target="_blank">**Website**</a>
 
 ---
 
