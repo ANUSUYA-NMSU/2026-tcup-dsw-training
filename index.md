@@ -10,9 +10,7 @@ you to **Earth and Environmental Data Science (EDS)** fundamentals using
 
 This is our first workshop through the TCUP Hub and ESIIL and we're glad to be here
 with you all as the first cohort of participants. This program is funded by the
-**National Science Foundation** (EDIT THIS FOR TCUP AWARD)
-(<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153040" target="_blank">**NSF
-Award # 2153040**</a>).
+**National Science Foundation**.
 
 > ### These TCUP Hub and ESIIL data science workshops aim to meet the following objectives through technical training and applied learning:
 >
